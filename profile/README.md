@@ -8,5 +8,5 @@ Jamas te mostraremos anuncios, anuncios en pantalla ni redireccion a paginas aje
 Actualmente estamos buscando gente que se proponga a buscar los mangas traducidos con todos sus capitulos. 🚧<br>
 Sera voluntario debido a que esta pagina generara **0** ingresos. Interesados pueden escribir al creador en **discord**. **Klande** or **Klande#9068**<br>
 ## Donaciones
-Como dijimos anteriormente, con esta pagina no se gana absolutamente nada de dinero. Asi que si quieren pueden donar voluntariamente al **[Paypal](https://pito.com)** del creador 💰<br>
+Como dijimos anteriormente, con esta pagina no se gana absolutamente nada de dinero. Asi que si quieren pueden donar voluntariamente al **[Paypal](https://paypal.me/jhonason)** del creador 💰<br>
 Cada donacion se agradece y se aprecia 💕
