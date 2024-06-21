@@ -1,12 +1,12 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## JMangas
+Pagina web de mangas en español, fundado por **JM**. Reunimos los mangas traducidos al idioma que se encuentran en internet y los publicamos en nuestra pagina para verlos completamente gratis, sin anuncios e interrupciones. ⭐
+Todo el material que se obtenemos, es publico. Los derechos pertenecen a los creadores de cada manga y los creditos de la traduccion al **Fandom** que se propuso hacerlo 🫂
+## Sobre Nosotros
+Esta pagina esta creada y desarrollada por **JM**, un desarrollador web independiente. 🖥️
+Jamas te mostraremos anuncios, anuncios en pantalla ni redireccion a paginas ajenas en los mangas que publicamos 🙂
+## Equipo de JMangas
+Actualmente estamos buscando gente que se proponga a buscar los mangas traducidos con todos sus capitulos. 🚧
+Sera voluntario debido a que esta pagina generara **0** ingresos. Interesados pueden escribir al creador en **discord**. **Klande** or *Klande#9068
+## Donaciones
+Como dijimos anteriormente, con esta pagina no se gana absolutamente nada de dinero. Asi que si quieren pueden donar voluntariamente al **[Paypal](https://pito.com)** del creador 💰
+Cada donacion se agradece y se aprecia 💕
